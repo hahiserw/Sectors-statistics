@@ -34,4 +34,4 @@ traktowane as ones with 0ms access time which is not quite true.
 To compile program just type `make`.
 
 Here is a picture of my notes which helped me wrote this program:
-![My notes](http://github.com/hahiserw/Sectors-statistics/blob/master/notes.jpg)
+![My notes](https://raw.github.com/hahiserw/Sectors-statistics/master/notes.jpg)
